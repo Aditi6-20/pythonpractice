@@ -1,0 +1,10 @@
+x=3-float(True)
+print(x)
+x=5%2*int(False)/3
+print(x)
+x=5*2-5%2+3/2-1
+print(x)
+x=3.0*2.8/4%8*2
+print(x)
+x=9/3-2/5%2
+print(x)
